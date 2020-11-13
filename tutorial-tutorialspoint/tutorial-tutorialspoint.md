@@ -1,6 +1,15 @@
 ## [Python 3 Tutorial tutorialspoint](https://www.tutorialspoint.com/python3/index.htm)
 
-Switched from [tutorialspoint Python Tutorial](https://www.tutorialspoint.com/python/index.htm) to these due to the fact that I'll be using python3
+Switched from [tutorialspoint Python Tutorial](https://www.tutorialspoint.com/python/index.htm) to this one due to the fact that I'll be using python3
+
+- [Python 3 Tutorial tutorialspoint](#python-3-tutorial-tutorialspoint)
+  - [Basics](#basics)
+  - [Standard Data Types](#standard-data-types)
+  - [Basic operators](#basic-operators)
+  - [Decisions](#decisions)
+  - [Loops](#loops)
+
+### Basics
 
 Quotes
 
@@ -52,3 +61,25 @@ Data Type Conversion
 | ord(x)                | Converts a single character to its integer value.                       |
 | hex(x)                | Converts an integer to a hexadecimal string.                            |
 | oct(x)                | Converts an integer to an octal string.                                 |
+
+### Basic operators
+
+View a list of [basic operators](./basic-operators.md) here.
+
+### Decisions
+
+```python
+number = 100
+
+if (number === 100): print("Number is 100")
+print("Byeeeee")
+
+```
+
+### Loops
+
+| Control Statement  | Description                                                                                                                         |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| break statement    | Terminates the loop statement and transfers execution to the statement immediately following the loop.                              |
+| continue statement | Causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating.                        |
+| pass statement     | The pass statement in Python is used when a statement is required syntactically but you do not want any command or code to execute. |
