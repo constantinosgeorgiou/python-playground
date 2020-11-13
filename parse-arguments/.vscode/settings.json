@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/constantinos/Documents/projects/python-playground/parse-arguments/.venv/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
