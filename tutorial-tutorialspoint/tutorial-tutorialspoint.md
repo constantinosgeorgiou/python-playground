@@ -8,6 +8,7 @@ Switched from [tutorialspoint Python Tutorial](https://www.tutorialspoint.com/py
   - [Basic operators](#basic-operators)
   - [Decisions](#decisions)
   - [Loops](#loops)
+  - [Classes](#classes)
 
 ### Basics
 
@@ -83,3 +84,12 @@ print("Byeeeee")
 | break statement    | Terminates the loop statement and transfers execution to the statement immediately following the loop.                              |
 | continue statement | Causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating.                        |
 | pass statement     | The pass statement in Python is used when a statement is required syntactically but you do not want any command or code to execute. |
+
+
+### Classes
+
+```python
+class ClassName:
+        "Class documentation string"
+        class_suite
+```
